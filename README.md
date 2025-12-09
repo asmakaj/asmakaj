@@ -1,6 +1,6 @@
 <div align="center">
 
-![Batman Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=300&section=header&text=🦇%20ASMA%20KAJEOUI%20🦇&fontSize=70&fontAlign=50&fontAlignY=35&fontColor=FF0000&animation=twinkling&desc=AI%20Developer%20%7C%20Machine%20Learning%20Explorer%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=55&descColor=FFFFFF)
+![Batman Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=300&section=header&text=🦇%20ASMA%20KAJEIOU%20🦇&fontSize=70&fontAlign=50&fontAlignY=35&fontColor=FF0000&animation=twinkling&desc=AI%20Developer%20%7C%20Machine%20Learning%20Explorer%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=55&descColor=FFFFFF)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80;Batman+Fan+%F0%9F%A6%87)](https://git.io/typing-svg)
 
