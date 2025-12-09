@@ -9,38 +9,33 @@
 ---
 
 ## 🚀 **ABOUT ME**
-```python
-class Asma:
-    def __init__(self):
-        self.role = "AI Developer & Digital Innovator"
-        self.location = "🇫🇷 France"
-        self.passion = "Artificial Intelligence & Machine Learning"
-        self.languages = ["Python", "JavaScript", "TypeScript", "SQL"]
-        self.frameworks = ["TensorFlow", "PyTorch", "React", "FastAPI"]
-        self.databases = ["PostgreSQL", "MongoDB"]
-        self.tools = ["Docker", "Git", "VS Code"]
-        self.currently_learning = ["Generative AI", "NLP", "Deep Learning"]
-        self.hobbies = ["🦇 Batman fan", "💻 Coding", "📚 Learning"]
-        self.status = "Building, learning, and growing every day"
-    
-    def create(self):
-        return "🎯 Building intelligent solutions, one step at a time"
-    
-    def mission(self):
-        return "🌍 Exploring AI and turning ideas into reality"
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Code",
-            "afternoon": "🧪 Learn & Experiment",
-            "evening": "📚 Read documentation",
-            "night": "💡 Work on side projects"
-        }
 
-# Instance
-me = Asma()
-print(f"✨ {me.create()} | {me.mission()}")
-```
+<div align="center">
+
+🎯 **Building intelligent solutions, one step at a time**
+
+🌍 **Exploring AI and turning ideas into reality**
+
+</div>
+
+### 👨‍💻 Who am I?
+
+- 🤖 **AI Developer & Digital Innovator**
+- 📍 Based in **France** 🇫🇷
+- 💡 Passionate about **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **Generative AI, NLP, Deep Learning**
+- 🦇 **Batman fan** in my free time
+- 📚 Always exploring new technologies
+
+### 💻 Languages & Technologies
+
+**Programming Languages:** Python • JavaScript • TypeScript • SQL
+
+**Frameworks:** TensorFlow • PyTorch • React • FastAPI
+
+**Databases:** PostgreSQL • MongoDB
+
+**Tools:** Docker • Git • VS Code
 
 ---
 
