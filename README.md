@@ -1,8 +1,12 @@
 <div align="center">
 
-![Batman Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=300&section=header&text=🦇%20ASMA%20KAJEIOU%20🦇&fontSize=70&fontAlign=50&fontAlignY=35&fontColor=FF0000&animation=twinkling&desc=AI%20Developer%20%7C%20Machine%20Learning%20Explorer%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=55&descColor=FFFFFF)
+<img src="./batman-logo.jpg" alt="Batman Banner" width="50%" style="max-width: 1200px; border-radius: 10px;"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80;Batman+Fan+%F0%9F%A6%87)](https://git.io/typing-svg)
+#  ASMA KAJEIOU 
+
+**AI Developer | Machine Learning Explorer | Tech Enthusiast**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80;Innovation+Driven+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,10 +28,10 @@
 - 📍 Based in **France** 🇫🇷
 - 💡 Passionate about **Artificial Intelligence & Machine Learning**
 - 🌱 Currently learning **Generative AI, NLP, Deep Learning**
-- 🦇 **Batman fan** in my free time
-- 📚 Always exploring new technologies
+- 🎨 **Tech enthusiast** with a passion for innovation
+- 📚 Always exploring new technologies and best practices
 
-### 💻 Languages & Technologies
+### 💻 Core Competencies
 
 **Programming Languages:** Python • JavaScript • TypeScript • SQL
 
@@ -83,31 +87,39 @@
 ## 📊 **GITHUB STATISTICS**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmakaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF0000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakaj&layout=compact&langs_count=8&theme=radical&border_color=FF0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmakaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF1493&title_color=FF1493&icon_color=FF1493"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakaj&layout=compact&langs_count=8&theme=radical&border_color=FF1493&title_color=FF1493"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmakaj&theme=radical&border=FF0000&ring=FF0000&fire=FF0000" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmakaj&theme=radical&border=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&theme=high-contrast&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000&hide_border=false&border_color=FF0000" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&theme=high-contrast&bg_color=0d1117&color=FF1493&line=FF1493&point=FF1493&hide_border=false&border_color=FF1493" alt="Activity Graph"/>
 </div>
 
 ---
 
 ## 🌱 **CURRENTLY LEARNING**
-```javascript
-const currentLearning = {
-  AI: ["Large Language Models", "Generative AI", "Computer Vision", "NLP"],
-  Development: ["Microservices Architecture", "Cloud Computing"],
-  Tools: ["Docker", "Kubernetes", "MLOps"],
-  Interests: ["AI Ethics", "Innovation", "Tech Trends"]
-};
 
-const mood = "Always curious, always learning 🚀";
-```
+<div align="center">
+
+### 🧠 AI & Machine Learning
+Large Language Models • Generative AI • Computer Vision • NLP
+
+### 💻 Development
+Microservices Architecture • Cloud Computing
+
+### 🛠️ Tools & Technologies
+Docker • Kubernetes • MLOps
+
+### 🎯 Interests
+AI Ethics • Innovation • Tech Trends
+
+**Always curious, always learning 🚀**
+
+</div>
 
 ---
 
@@ -116,8 +128,8 @@ const mood = "Always curious, always learning 🚀";
 - 🔭 Exploring **Generative AI** and **LLMs**
 - 🌱 Building **AI-powered applications**
 - 👯 Learning **Machine Learning** techniques
-- 💡 Experimenting with **new technologies**
-- 🦇 Being a Batman fan in my free time
+- 💡 Experimenting with **innovative solutions**
+- 🚀 Contributing to the **AI community**
 
 ---
 
@@ -127,7 +139,7 @@ const mood = "Always curious, always learning 🚀";
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmakajeiou/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmakaj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmakajeiou@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmakajeiou@gmail.com)
 
 </div>
 
@@ -135,12 +147,14 @@ const mood = "Always curious, always learning 🚀";
 
 <div align="center">
 
-### 🦇 I'm vengeance, I'm the night, I'm a developer
+### 💖 Passionate about technology, driven by innovation 💖
 
-![Profile Views](https://komarev.com/ghpvc/?username=asmakaj&color=FF0000&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=asmakaj&color=FF1493&style=for-the-badge)
 
 ### ⭐ Feel free to explore my repositories and connect!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=120&section=footer)
+---
+
+<img src="./batman-logo.jpg" alt="Batman Footer" width="200"/>
 
 </div>
