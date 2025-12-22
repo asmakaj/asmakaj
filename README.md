@@ -1,12 +1,24 @@
 <div align="center">
 
-<img src="./bts-logo.png" alt="BTS Logo" width="200" style="border-radius: 10px;"/>
+<!-- Animated Header with Green Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:00C853,100:10A37F&height=200&section=header&text=ASMA%20KAJEIOU&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20|%20Machine%20Learning%20Explorer&descAlignY=55&descSize=25"/>
 
-#  ASMA KAJEIOU 
+<!-- Subtle BTS Reference -->
+<h3>⟭⟬⁷</h3>
 
-**AI Developer | Machine Learning Explorer | Tech Enthusiast**
+<!-- Dynamic Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D084&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=💚+Welcome+to+my+GitHub;🧠+Building+AI+Solutions;💻+Full+Stack+Developer;🤖+Machine+Learning+Explorer;🚀+Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D084&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80;Borahae+%F0%9F%92%9C)](https://git.io/typing-svg)
+<!-- Animated Badges -->
+<p>
+  <img src="https://img.shields.io/badge/AI%20Developer-00D084?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000" alt="AI Developer"/>
+  <img src="https://img.shields.io/badge/Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
+  <img src="https://img.shields.io/badge/Based%20in-France%20🇫🇷-00D084?style=for-the-badge&labelColor=000000" alt="France"/>
+  <img src="https://img.shields.io/badge/⟭⟬⁷-Borahae-00C853?style=for-the-badge&labelColor=000000" alt="BTS"/>
+</p>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=asmakaj&color=00D084&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -14,135 +26,182 @@
 
 ## 🚀 **ABOUT ME**
 
-<div align="center">
+<img align="right" alt="BTS" width="400" src="https://media.giphy.com/media/MCZ39lz83o5lC/giphy.gif">
 
-🎯 **Building intelligent solutions, one step at a time**
+### 👋 Hi, I'm Asma Kajeiou ⟭⟬⁷
 
-🌍 **Exploring AI and turning ideas into reality**
+**AI Developer & Digital Innovator** based in **France 🇫🇷**
 
+### 🌟 Passions
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💡 Innovation & Creativity
+- 🌍 Open Source
 
-</div>
+### 📚 Currently Learning
+- 🔥 Generative AI
+- 💬 Natural Language Processing
+- 🧬 Deep Learning Architectures
+- 🤖 Large Language Models
 
-### 👨‍💻 Who am I?
+### 👥 Community Involvement
+**President @ AT ALL COST** - CY Tech AI Lab  
+*Mission: Democratizing AI knowledge through workshops & projects*
 
-- 🤖 **AI Developer & Digital Innovator**
-- 📍 Based in **France** 🇫🇷
-- 💡 Passionate about **Artificial Intelligence & Machine Learning**
-- 🌱 Currently learning **Generative AI, NLP, Deep Learning**
-- 🎨 **Tech enthusiast** with a passion for innovation
-- 📚 Always exploring new technologies and best practices
-- 🎵 **"No more dream, just code it"** - Inspired to create
+### 💻 Tech Stack
 
-### 💻 Core Competencies
+**Languages:** Python • JavaScript • TypeScript • SQL • HTML/CSS
 
-**Programming Languages:** Python • JavaScript • TypeScript • SQL
+**ML Stack:** TensorFlow • PyTorch • Scikit-learn • Hugging Face
 
-**Frameworks:** TensorFlow • PyTorch • React • FastAPI
+**Web Development:** React • FastAPI • Node.js • Express
 
-**Databases:** PostgreSQL • MongoDB
+**Databases:** PostgreSQL • MongoDB • Firebase
 
-**Tools:** Docker • Git • VS Code
+**Tools:** Docker • Git/GitHub • VS Code • Jupyter • Postman
+
+**Cloud:** Google Cloud • AWS (beginner)
+
+### 🎯 Current Focus
+- 🔭 Building AI-powered applications for real-world problems
+- 📝 Creating educational content about AI/ML
+- 🌟 Open source contributions
+- 🚀 **Seeking: AI/ML Engineering Internship for 2025**
+
+### 💚 Philosophy
+- **Motto:** Always learning, always growing 💚
+- **Life Philosophy:** Teamwork makes the dream work 💜
+- **Quote:** *"The best way to predict the future is to create it"*
 
 ---
 
-## 🛠️ **TECHNICAL STACK**
+## 🛠️ **TECH ARSENAL**
 
-### 🧠 **AI & Machine Learning** *(Exploring)*
+<details open>
+<summary><b>🧠 AI & Machine Learning</b></summary>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-00D084?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-00C853?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/scikit--learn-00D084?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Hugging_Face-00C853?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
+</details>
 
-### 🌐 **Web Development**
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" />
 </p>
+</details>
 
-### 🗄️ **Backend & Databases**
+<details open>
+<summary><b>🗄️ Backend & Databases</b></summary>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-00C853?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql,mongodb,firebase&theme=dark" />
 </p>
+</details>
 
-### ⚙️ **DevOps & Tools**
+<details open>
+<summary><b>⚙️ DevOps & Tools</b></summary>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,bash&theme=dark" />
+</p>
+</details>
+
+---
+
+## 📊 **GITHUB ANALYTICS**
+
+<div align="center">
+  
+<!-- GitHub Stats Cards with enhanced styling -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmakaj&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00C853&text_color=ffffff&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakaj&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=ffffff&border_radius=10&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmakaj&theme=react&hide_border=true&background=0D1117&ring=00D084&fire=00C853&currStreakLabel=00D084&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&custom_title=Asma's%20Contribution%20Graph&bg_color=0D1117&color=00D084&line=00C853&point=00D084&area_color=00D084&area=true&hide_border=true&radius=10" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 **CURRENT FOCUS**
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧠 **AI & Machine Learning**
+- Large Language Models (LLMs)
+- Generative AI & Transformers
+- Computer Vision & CNNs
+- Natural Language Processing
+- Deep Learning Architectures
+
+</td>
+<td width="50%">
+
+### 💻 **Development**
+- Microservices Architecture
+- Cloud Computing (AWS/GCP)
+- API Design & Development
+- Full Stack Applications
+- Docker & Kubernetes
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 **ACTIVE PROJECTS**
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:---:|:---:|:---:|
+| 🔭 **Generative AI** | Exploring cutting-edge LLMs | Python, OpenAI, LangChain |
+| 🌱 **AI Applications** | Building intelligent solutions | TensorFlow, PyTorch, FastAPI |
+| 💡 **Innovation Lab** | Experimenting with new tech | React, Next.js, TypeScript |
+| 🚀 **Community** | Contributing to open source | Git, GitHub, Documentation |
+
+</div>
+
+---
+
+## 📫 **LET'S CONNECT!**
+
+<div align="center">
+
+<!-- Social Media Buttons -->
+<a href="https://www.linkedin.com/in/asmakajeiou/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/asmakaj" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
----
-
-## 📊 **GITHUB STATISTICS**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmakaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_color=00D084&title_color=00D084&icon_color=00C853"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakaj&layout=compact&langs_count=8&theme=algolia&border_color=00D084&title_color=00D084"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmakaj&theme=algolia&border=00D084&ring=00D084&fire=00C853&currStreakLabel=00D084" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&theme=github-compact&bg_color=0d1117&color=00D084&line=00C853&point=00D084&hide_border=false&border_color=00D084" alt="Activity Graph"/>
-</div>
-
----
-
-## 🌱 **CURRENTLY LEARNING**
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-Large Language Models • Generative AI • Computer Vision • NLP
-
-### 💻 Development
-Microservices Architecture • Cloud Computing
-
-### 🛠️ Tools & Technologies
-Docker • Kubernetes • MLOps
-
-### 🎯 Interests
-AI Ethics • Innovation • Tech Trends
-
-**"Life goes on" - Always curious, always learning 🚀**
-
-</div>
-
----
-
-## 🎯 **WHAT I'M WORKING ON**
-
-- 🔭 Exploring **Generative AI** and **LLMs**
-- 🌱 Building **AI-powered applications**
-- 👯 Learning **Machine Learning** techniques
-- 💡 Experimenting with **innovative solutions**
-- 🚀 Contributing to the **AI community**
-- 💜 **"I'm fine, save me"** - Through code and creativity
-
----
-
-## 📫 **LET'S CONNECT**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmakajeiou/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmakaj)
-[![Email](https://img.shields.io/badge/Email-00D084?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmakajeiou@gmail.com)
+</a>
+<a href="mailto:asmakajeiou@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00D084?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -150,17 +209,14 @@ AI Ethics • Innovation • Tech Trends
 
 <div align="center">
 
-### 💚 "Teamwork makes the dream work" - BTS 💚
 
-![Profile Views](https://komarev.com/ghpvc/?username=asmakaj&color=00D084&style=for-the-badge)
+### ⟭⟬⁷ 💜 보라해 (Borahae) 💜 ⟭⟬⁷
 
-### ⭐ Feel free to explore my repositories and connect!
-### 🌟 **"We are bulletproof"** 🌟
+<br>
 
----
-
-<img src="./bts-logo.png" alt="BTS Footer" width="150"/>
-
-**보라해 (Borahae)** 💜
+### ⭐ *Feel free to explore, fork, and star my repositories!* ⭐
 
 </div>
+
+<!-- Animated Footer with Green Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:00C853,100:10A37F&height=120&section=footer"/>
