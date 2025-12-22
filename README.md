@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./batman-logo.jpg" alt="Batman Banner" width="50%" style="max-width: 1200px; border-radius: 10px;"/>
+<img src="./bts-logo.png" alt="BTS Logo" width="200" style="border-radius: 10px;"/>
 
 #  ASMA KAJEIOU 
 
 **AI Developer | Machine Learning Explorer | Tech Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80;Innovation+Driven+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D084&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80;Borahae+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,6 +20,7 @@
 
 🌍 **Exploring AI and turning ideas into reality**
 
+
 </div>
 
 ### 👨‍💻 Who am I?
@@ -30,6 +31,7 @@
 - 🌱 Currently learning **Generative AI, NLP, Deep Learning**
 - 🎨 **Tech enthusiast** with a passion for innovation
 - 📚 Always exploring new technologies and best practices
+- 🎵 **"No more dream, just code it"** - Inspired to create
 
 ### 💻 Core Competencies
 
@@ -48,11 +50,11 @@
 ### 🧠 **AI & Machine Learning** *(Exploring)*
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/TensorFlow-00D084?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-00C853?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/scikit--learn-00D084?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-00C853?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
 </p>
 
 ### 🌐 **Web Development**
@@ -67,7 +69,7 @@
 
 ### 🗄️ **Backend & Databases**
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/FastAPI-00C853?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -87,16 +89,16 @@
 ## 📊 **GITHUB STATISTICS**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmakaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF1493&title_color=FF1493&icon_color=FF1493"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakaj&layout=compact&langs_count=8&theme=radical&border_color=FF1493&title_color=FF1493"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmakaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_color=00D084&title_color=00D084&icon_color=00C853"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakaj&layout=compact&langs_count=8&theme=algolia&border_color=00D084&title_color=00D084"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmakaj&theme=radical&border=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmakaj&theme=algolia&border=00D084&ring=00D084&fire=00C853&currStreakLabel=00D084" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&theme=high-contrast&bg_color=0d1117&color=FF1493&line=FF1493&point=FF1493&hide_border=false&border_color=FF1493" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&theme=github-compact&bg_color=0d1117&color=00D084&line=00C853&point=00D084&hide_border=false&border_color=00D084" alt="Activity Graph"/>
 </div>
 
 ---
@@ -117,7 +119,7 @@ Docker • Kubernetes • MLOps
 ### 🎯 Interests
 AI Ethics • Innovation • Tech Trends
 
-**Always curious, always learning 🚀**
+**"Life goes on" - Always curious, always learning 🚀**
 
 </div>
 
@@ -130,6 +132,7 @@ AI Ethics • Innovation • Tech Trends
 - 👯 Learning **Machine Learning** techniques
 - 💡 Experimenting with **innovative solutions**
 - 🚀 Contributing to the **AI community**
+- 💜 **"I'm fine, save me"** - Through code and creativity
 
 ---
 
@@ -139,7 +142,7 @@ AI Ethics • Innovation • Tech Trends
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmakajeiou/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmakaj)
-[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmakajeiou@gmail.com)
+[![Email](https://img.shields.io/badge/Email-00D084?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmakajeiou@gmail.com)
 
 </div>
 
@@ -147,14 +150,17 @@ AI Ethics • Innovation • Tech Trends
 
 <div align="center">
 
-### 💖 Passionate about technology, driven by innovation 💖
+### 💚 "Teamwork makes the dream work" - BTS 💚
 
-![Profile Views](https://komarev.com/ghpvc/?username=asmakaj&color=FF1493&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=asmakaj&color=00D084&style=for-the-badge)
 
 ### ⭐ Feel free to explore my repositories and connect!
+### 🌟 **"We are bulletproof"** 🌟
 
 ---
 
-<img src="./batman-logo.jpg" alt="Batman Footer" width="200"/>
+<img src="./bts-logo.png" alt="BTS Footer" width="150"/>
+
+**보라해 (Borahae)** 💜
 
 </div>
