@@ -26,7 +26,7 @@
 
 ## 🚀 **ABOUT ME**
 
-<img align="right" alt="BTS" width="400" src="https://media.giphy.com/media/MCZ39lz83o5lC/giphy.gif">
+<img src="./bts-logo.png" alt="BTS Logo" width="250"/>
 
 ### 👋 Hi, I'm Asma Kajeiou ⟭⟬⁷
 
