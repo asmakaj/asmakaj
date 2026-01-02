@@ -26,52 +26,30 @@
 
 ## 🚀 **ABOUT ME**
 
-<img src="./bts-logo.png" alt="BTS Logo" width="250"/>
+### 👋 Hi, I'm Asma Kajeiou 
 
-### 👋 Hi, I'm Asma Kajeiou ⟭⟬⁷
+**AI Developer & Digital Innovator** based in **France 🇫🇷** and student at CY Tech
 
-**AI Developer & Digital Innovator** based in **France 🇫🇷**
+### 🎯 Profile Overview
+<div align="center">
 
-### 🌟 Passions
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💡 Innovation & Creativity
-- 🌍 Open Source
-
-### 📚 Currently Learning
-- 🔥 Generative AI
-- 💬 Natural Language Processing
-- 🧬 Deep Learning Architectures
-- 🤖 Large Language Models
-
+| 🌟 Passions | 📚 Currently Learning | 🚀 Current Focus |
+|-------------|----------------------|------------------|
+| Artificial Intelligence | Generative AI | Building AI-powered applications for real-world problems |
+| Machine Learning | Natural Language Processing | Creating educational content |
+| Innovation & Creativity | Deep Learning Architectures | Open source contributions |
+| Open Source | Large Language Models | **Seeking: AI/ML Engineering Internship for September 2026** |
+<div>
+  
 ### 👥 Community Involvement
 **President @ AT ALL COST** - CY Tech AI Lab  
 *Mission: Democratizing AI knowledge through workshops & projects*
 
-### 💻 Tech Stack
-
-**Languages:** Python • JavaScript • TypeScript • SQL • HTML/CSS
-
-**ML Stack:** TensorFlow • PyTorch • Scikit-learn • Hugging Face
-
-**Web Development:** React • FastAPI • Node.js • Express
-
-**Databases:** PostgreSQL • MongoDB • Firebase
-
-**Tools:** Docker • Git/GitHub • VS Code • Jupyter • Postman
-
-**Cloud:** Google Cloud • AWS (beginner)
-
-### 🎯 Current Focus
-- 🔭 Building AI-powered applications for real-world problems
-- 📝 Creating educational content about AI/ML
-- 🌟 Open source contributions
-- 🚀 **Seeking: AI/ML Engineering Internship for 2025**
+**Tutor in maths/physics @ Eurêka**   
+*Mission: Tutoring Seniors in Maths and Physics to prepare for the franch Bacalauréat*
 
 ### 💚 Philosophy
-- **Motto:** Always learning, always growing 💚
-- **Life Philosophy:** Teamwork makes the dream work 💜
-- **Quote:** *"The best way to predict the future is to create it"*
+*"The best way to predict the future is to create it"*
 
 ---
 
@@ -119,24 +97,8 @@
 ---
 
 ## 📊 **GITHUB ANALYTICS**
-
 <div align="center">
   
-<!-- GitHub Stats Cards with enhanced styling -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmakaj&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00C853&text_color=ffffff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakaj&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=ffffff&border_radius=10&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmakaj&theme=react&hide_border=true&background=0D1117&ring=00D084&fire=00C853&currStreakLabel=00D084&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&custom_title=Asma's%20Contribution%20Graph&bg_color=0D1117&color=00D084&line=00C853&point=00D084&area_color=00D084&area=true&hide_border=true&radius=10" width="95%"/>
 
@@ -144,34 +106,6 @@
 
 ---
 
-## 🎯 **CURRENT FOCUS**
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🧠 **AI & Machine Learning**
-- Large Language Models (LLMs)
-- Generative AI & Transformers
-- Computer Vision & CNNs
-- Natural Language Processing
-- Deep Learning Architectures
-
-</td>
-<td width="50%">
-
-### 💻 **Development**
-- Microservices Architecture
-- Cloud Computing (AWS/GCP)
-- API Design & Development
-- Full Stack Applications
-- Docker & Kubernetes
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 **ACTIVE PROJECTS**
 
@@ -179,16 +113,19 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack |
 |:---:|:---:|:---:|
-| 🔭 **Generative AI** | Exploring cutting-edge LLMs | Python, OpenAI, LangChain |
-| 🌱 **AI Applications** | Building intelligent solutions | TensorFlow, PyTorch, FastAPI |
-| 💡 **Innovation Lab** | Experimenting with new tech | React, Next.js, TypeScript |
-| 🚀 **Community** | Contributing to open source | Git, GitHub, Documentation |
+| 🌐 **Association Member Portal** | A full-featured website for managing members, events, and communications for my association | Next.js, TypeScript, Node.js, MongoDB |
+| 🧠 **Neural Network from Scratch** | Building and training a neural network framework from the ground up without external ML libraries | Python, NumPy, Matplotlib |
+| 💬 **Intelligent Chatbot System** | A conversational AI assistant with context awareness and domain-specific knowledge | Python, FastAPI, OpenAI API, LangChain |
+| 🤖 **AI-Powered Personal Assistant** | An intelligent tool for daily task automation using generative AI and NLP | Python, Streamlit, Transformers, PostgreSQL |
+| 🌟 **Open Source AI Toolkit** | A collection of reusable components and utilities for AI/ML projects | Python, PyTorch, Docker, FastAPI |
+
+</div>
 
 </div>
 
 ---
 
-## 📫 **LET'S CONNECT!**
+## 📫 **LET'S CONNECT !**
 
 <div align="center">
 
@@ -209,12 +146,9 @@
 
 <div align="center">
 
-
-### ⟭⟬⁷ 💜 보라해 (Borahae) 💜 ⟭⟬⁷
-
 <br>
 
-### ⭐ *Feel free to explore, fork, and star my repositories!* ⭐
+### ⭐ *Feel free to explore, fork, and star my repositories !* ⭐
 
 </div>
 
